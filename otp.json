@@ -1,0 +1,8 @@
+{
+  "status": true,
+  "message": "",
+  "response":{
+    "otp": 3575,
+    "expire": 10
+  }
+}
