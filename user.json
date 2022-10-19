@@ -1,0 +1,10 @@
+{
+  "status": true,
+  "message": "",
+  "response":{
+    "id": 1,
+    "fullName": "Random User",
+    "phoneNumber": "+9710500000000",
+    "account_status":  "verified"
+  }
+}
