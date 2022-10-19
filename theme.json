@@ -1,0 +1,8 @@
+{
+  "status": true,
+  "message": "",
+  "response":{
+    "logo": "https://raw.githubusercontent.com/majdhorani/Dummy-Json-Files/main/fbs_pay_logo.png",
+    "color": "#000000"
+  }
+}
